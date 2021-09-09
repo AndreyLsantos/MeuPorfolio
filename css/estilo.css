@@ -327,6 +327,11 @@ h2 {
   padding: 5em;
   box-shadow: 2px 2px 20px rgba(5, 5, 5, 0.637);
 }
+.content-footer{
+  padding-top: 3em;
+  border-top: 1px solid #333;
+}
+
 
 
 /*Animations*/
